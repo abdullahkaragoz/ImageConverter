@@ -39,5 +39,6 @@ Kaynak klasör: HEIC/HCEF dosyalarının bulunduğu klasörü seçin.
 Hedef klasör: Dönüştürülen JPG’lerin kaydedileceği klasörü seçin.
 Başlat butonuna tıklayın.
 İşlem sonunda durum penceresi başarı/başarısız sayısını gösterir.
+
 Not: Bazı sistemlerde HEIC/HEIF desteği için HEIF Image Extensions kurulu olmalıdır.
 
