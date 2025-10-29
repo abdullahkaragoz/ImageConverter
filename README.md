@@ -27,7 +27,7 @@ Basit arayüz: kaynak ve hedef klasörü seç, **Başlat**’a tıkla, ilerlemey
 
 1. Depoyu klonla:
    ```bash
-   git clone https://github.com/<kullanici_adi>/<repo_adi>.git
+   git clone https://github.com/<abdullahkaragoz>/<ImageConverter>.git
 2. Projeyi Visual Studio 2022+ ile aç.
 3. NuGet paketlerini yükle:
     Magick.NET-Q8-AnyCPU
